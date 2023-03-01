@@ -23,5 +23,5 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "content-flow"
-          heroku_email: "youremail@example.com"
+          heroku_email: "denisetavares.contato@gmail.com"
 
