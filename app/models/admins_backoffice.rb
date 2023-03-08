@@ -1,0 +1,2 @@
+class AdminsBackoffice < ApplicationRecord
+end
