@@ -9,6 +9,8 @@ gem 'rails', '~> 5.2.8', '>= 5.2.8.1'
 # Use Postgres as the database for Active Record
 gem 'pg'
 
+gem 'webpacker', '~> 5.4', '>= 5.4.4'
+
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
